@@ -1,0 +1,59 @@
+[
+    {
+        "timestamp": "2025-08-07T17:55:35.232443",
+        "action": "password_check",
+        "data": {
+            "password": "**************",
+            "feedback_score": 5,
+            "strength": "strong.",
+            "feedback": []
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:55:53.081867",
+        "action": "phishing_simulation",
+        "data": {
+            "email": "URGENT: Your account has been suspended",
+            "result": "Correctly identified phishing email"
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:56:06.259590",
+        "action": "phishing_simulation",
+        "data": {
+            "email": "Action Required: Email storage almost full",
+            "result": "Failed to identify email"
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:56:09.347652",
+        "action": "phishing_simulation",
+        "data": {
+            "email": "Team Meeting Agenda - Aug 10",
+            "result": "Failed to identify email"
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:56:11.724756",
+        "action": "phishing_simulation",
+        "data": {
+            "email": "Win a FREE iPhone 15 Pro!",
+            "result": "Correctly identified phishing email"
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:56:12.992193",
+        "action": "phishing_simulation",
+        "data": {
+            "email": "Your Amazon Order #47583927 has shipped",
+            "result": "Correctly identified legitimate email"
+        }
+    },
+    {
+        "timestamp": "2025-08-07T17:56:12.993903",
+        "action": "phishing_simulation",
+        "data": {
+            "Final result": "Your score: 3 out of 5"
+        }
+    }
+]
