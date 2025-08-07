@@ -55,7 +55,7 @@ This tool is meant for learning and awareness only — not for real-world phishi
 
 ## Author
 
-**Ayeesha Sha**  
+**Ayeesha**  
 [GitHub](https://github.com/Ayeesha02)
 
 ---
@@ -63,3 +63,4 @@ This tool is meant for learning and awareness only — not for real-world phishi
 ## 📜 License
 
 This project is licensed under the MIT License.
+
